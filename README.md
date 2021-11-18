@@ -1,4 +1,4 @@
-# contentstack-library
+# E-library (Contentstack + GraphQL + Apollo + Vue)
 
 ## Project setup
 ```

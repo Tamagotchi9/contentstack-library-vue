@@ -7,7 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.17",
+    "@vue/apollo-option": "^4.0.0-alpha.15",
+    "axios": "^0.24.0",
+    "contentstack": "^3.14.0",
     "core-js": "^3.6.5",
+    "graphql": "^16.0.1",
+    "graphql-tag": "^2.12.6",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
@@ -15,6 +21,7 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
-    "@vue/compiler-sfc": "^3.0.0"
+    "@vue/compiler-sfc": "^3.0.0",
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
